@@ -1,0 +1,59 @@
+ExitButton.png is 259x91
+
+use https://www.simpleimageresizer.com/upload for png images
+
+still need:
+
+    Word type box
+        enter to search
+        search button
+        X to clear typed button
+
+    Spell Check
+
+    defenition
+
+    liseten
+
+    clickable corrected words!
+
+
+    exit button location correctness
+
+    frame layout
+        hover top for setUndecorated false
+
+
+
+
+
+
+        
+
+/*
+        SOMETHING.addMouseListener(new java.awt.event.MouseAdapter(){
+            public void mouseEntered(java.awt.event.MouseEvent e){
+                DO WHEN ENTER
+            }
+            public void mouseExited(java.awt.event.MouseEvent e){
+                STOP WHEN EXIT
+            }
+        }
+    );
+*/
+
+
+Settings button can show hashmap or tree
+
+Use Trie tree implimentation to store every word in dictiorary
+Hashmap to store defenition
+
+
+https://www.youtube.com/watch?v=Kmgo00avvEw at 2:18:35 for drop down menu for Settings
+
+
+things for textbox:
+1. My sentence
+2. Wrong Words
+3. did you mean?
+4. 
